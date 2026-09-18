@@ -1,0 +1,8 @@
+# Local Netlify folder
+.netlify
+
+# Artefactos locales del runtime de Netlify
+deno.lock
+
+# Dependencias
+node_modules
